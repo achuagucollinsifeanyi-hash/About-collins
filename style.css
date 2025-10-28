@@ -1,0 +1,33 @@
+site-header{
+    background-color:green;
+    border-bottom:1px solid#e2e8f0
+}
+brand{
+    display:inlineblock;
+    font-size:1.25rem;
+    padding:1rem 0;
+    height:50px;
+    color:greenyellow;
+}
+.navlist{
+    list-style:none;
+    display:flex;
+    gap:1rem;
+}
+.nav-list a{
+    display:inline-blkock;
+    padding:1rem0;
+    color:aquamarine;text-decoration:none;
+}
+.nav-list{
+    color:red;
+}
+.profile{
+    display:grid;
+    grid-template-columns: 220px 1fr;
+    gap:1rem;
+    align-items:center;
+    margin:1rem 0 2rem
+}
+
+
